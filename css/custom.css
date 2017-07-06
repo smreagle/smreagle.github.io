@@ -1,0 +1,36 @@
+@import url("font-awesome/css/font-awesome.min.css");
+
+.profile-pic {
+   position: relative;
+   width: 200px;
+   height: 200px;
+   border-radius: 100%;
+}
+
+.container {
+  padding-right: 110px;
+  padding-left: 110px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.social li a { 
+	color: #fff; 
+}
+
+ul {
+	list-style-type: none;
+	margin-left: -40px;
+}
+
+.social li a:hover { 
+	color: #11ABB0; 
+}
+
+
+
+ .social li {
+    display: inline;
+    font-size: 30px;
+    margin: 5px;
+}
